@@ -33,6 +33,8 @@
     3. 共有データ
     4. 共有テーブル
 
++++
+
 ---
 ### 一貫性をどう考えるか
 
@@ -54,3 +56,9 @@
     - 総コスト = 分割コスト + 関連コスト 
 - 小さな変更少しずつ
     - 間違いのコストを小さく
+
+---
+### 参考
+- [マイクロサービスのデータを管理する](https://www.infoq.com/jp/news/2017/08/managing-data-in-microservices)
+- [マイクロサービスのトレードオフ](https://postd.cc/microservice-trade-offs/)
+- [サービス分割とデータ統合アーキテクチャに関する考察](https://qiita.com/yebihara/items/8a849f611e4a41cf47e4)
